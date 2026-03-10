@@ -36,7 +36,7 @@ These scripts are strictly for **educational and ethical use** as part of univer
 | [Firewall Log Parser](firewall-log-parser)| Parses firewall logs for patterns and anomalies |
 | [Forensic Hashing Tool](Forensic-Hashing-Tool)| Performs SHA-256 hashing for file integrity verification |
 | [Metadata Extractor](Metadata-Extractor) | Extracts image metadata using Python PIL for digital forensics |
-| [TCP Client & Server](tcp_client_server) | Demonstrates basic network socket communication |
+| [TCP Client & Server](TCP-Client-and-server) | Demonstrates basic network socket communication |
 | [Packet Sniffer](packet_sniffer/packet_sniffer.py) | Captures and analyzes network packets |
 | [Covert Communication Script](covert_comm_script/covert_comm.py) | Implements hidden data exchange over normal network traffic |
 
