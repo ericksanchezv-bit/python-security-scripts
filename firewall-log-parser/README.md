@@ -1,17 +1,20 @@
-# Firewall Log Parser
+# 🛡️ Firewall Log Parser (PCAP Analyzer)
 
-This Python script analyzes PCAP files to identify network activity.
+This script analyzes PCAP files and extracts network communication patterns including hosts, protocols, and observed ports.
 
-## Features
+## ✨ Features
+
 - Parses PCAP files
-- Extracts source and destination IP addresses
-- Displays observed ports
+- Identifies source and destination IP addresses
+- Shows observed ports for each host
 - Generates a report file
 
-## Usage
+## ⚙️ Requirements
 
-Run the script:
+- Python 3.x
+- Libraries: `scapy`, `prettytable`
 
-python firewall_log_parser.py
+Install dependencies:
 
-Then enter the path to a PCAP file or folder.
+```bash
+pip install scapy prettytable
