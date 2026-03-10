@@ -38,6 +38,7 @@ These scripts are strictly for **educational and ethical use** as part of univer
 | [Metadata Extractor](Metadata-Extractor/README.md) | Extracts image metadata using Python PIL for digital forensics |
 | [TCP Client & Server](TCP-Client-and-server/README.md) | Demonstrates basic network socket communication |
 | [Covert Communication](Covert-Communication/README.md) | Implements hidden data exchange over normal network traffic |
+| [Packet Sniffer](packet-sniffer/README.md) | Captures raw IP packets and analyzes network traffic patterns |
 ---
 
 ## ⚙️ Requirements
