@@ -37,7 +37,7 @@ These scripts are strictly for **educational and ethical use** as part of univer
 | [Forensic Hashing Tool](Forensic-Hashing-Tool)| Performs SHA-256 hashing for file integrity verification |
 | [Metadata Extractor](Metadata-Extractor) | Extracts image metadata using Python PIL for digital forensics |
 | [TCP Client & Server](TCP-Client-and-server) | Demonstrates basic network socket communication |
-| [Covert Communication Script](covert_comm_script/covert_comm.py) | Implements hidden data exchange over normal network traffic |
+| [Covert Communication Script](Covert-Communication) | Implements hidden data exchange over normal network traffic |
 
 ---
 
