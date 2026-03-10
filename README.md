@@ -34,7 +34,7 @@ These scripts are strictly for **educational and ethical use** as part of univer
 |----------|--------------|
 | [File Processor](file_processor/file_processor.py) | Extracts and displays file metadata and headers |
 | [Firewall Log Parser](firewall-log-parser)| Parses firewall logs for patterns and anomalies |
-| [Forensic Hashing Tool](forensic-hashing-tool)(forensic_hashing_tool/forensic_hashing_tool.py) | Performs SHA-256 hashing for file integrity verification |
+| [Forensic Hashing Tool](forensic-hashing-tool)| Performs SHA-256 hashing for file integrity verification |
 | [Metadata Extractor](metadata_extractor/metadata_extractor.py) | Extracts image metadata using Python PIL for digital forensics |
 | [TCP Client & Server](tcp_client_server) | Demonstrates basic network socket communication |
 | [Packet Sniffer](packet_sniffer/packet_sniffer.py) | Captures and analyzes network packets |
