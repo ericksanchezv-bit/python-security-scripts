@@ -32,7 +32,7 @@ These scripts are strictly for **educational and ethical use** as part of univer
 
 | Project | Description |
 |----------|--------------|
-| [File Processor](file_processor/file_processor.py) | Extracts and displays file metadata and headers |
+| [File Processor](file_processor) | Extracts and displays file metadata and headers |
 | [Firewall Log Parser](firewall-log-parser)| Parses firewall logs for patterns and anomalies |
 | [Forensic Hashing Tool](Forensic-Hashing-Tool)| Performs SHA-256 hashing for file integrity verification |
 | [Metadata Extractor](Metadata-Extractor) | Extracts image metadata using Python PIL for digital forensics |
