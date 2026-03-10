@@ -1,12 +1,12 @@
 """
-Full CodeBook LSB Embedder
+🕵️‍♂️ Covert Communication (LSB Embedder)
 
-This script embeds the contents of a text file into a 24-bit RGB image using
-**Least Significant Bit (LSB) steganography**.
+This script embeds the contents of a text file (`CodeBook.txt`) into a 24-bit RGB image (`monalisa.bmp`) 
+using **Least Significant Bit (LSB) steganography**.
 
 - Reads the file as bytes and converts to bits
 - Embeds bits into the RGB channels of each pixel
-- Creates a new image with the hidden data
+- Produces a new image (`monaLisa_Hidden.bmp`) with the hidden message
 
 """
 
