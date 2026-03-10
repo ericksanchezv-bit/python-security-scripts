@@ -32,13 +32,12 @@ These scripts are strictly for **educational and ethical use** as part of univer
 
 | Project | Description |
 |----------|--------------|
-| [File Processor](file_processor) | Extracts and displays file metadata and headers |
-| [Firewall Log Parser](firewall-log-parser)| Parses firewall logs for patterns and anomalies |
-| [Forensic Hashing Tool](Forensic-Hashing-Tool)| Performs SHA-256 hashing for file integrity verification |
-| [Metadata Extractor](Metadata-Extractor) | Extracts image metadata using Python PIL for digital forensics |
-| [TCP Client & Server](TCP-Client-and-server) | Demonstrates basic network socket communication |
-| [Covert Communication](Covert-Communication) | Implements hidden data exchange over normal network traffic |
-
+| [File Processor](file_processor/README.md) | Extracts and displays file metadata and headers |
+| [Firewall Log Parser](firewall-log-parser/README.md) | Parses firewall logs for patterns and anomalies |
+| [Forensic Hashing Tool](Forensic-Hashing-Tool/README.md) | Performs SHA-256 hashing for file integrity verification |
+| [Metadata Extractor](Metadata-Extractor/README.md) | Extracts image metadata using Python PIL for digital forensics |
+| [TCP Client & Server](TCP-Client-and-server/README.md) | Demonstrates basic network socket communication |
+| [Covert Communication](Covert-Communication/README.md) | Implements hidden data exchange over normal network traffic |
 ---
 
 ## ⚙️ Requirements
